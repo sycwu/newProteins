@@ -1,0 +1,84 @@
+02/20/2024, 13:23:49
+g10028.t1	sp|O60930|RNH1_HUMAN	RNASEH1	Ribonuclease H1 	5.8e-68			
+g10029.t1	sp|O60930|RNH1_HUMAN	RNASEH1	Ribonuclease H1 	1.3e-69	6.3e-71		
+g10070.t1	sp|Q09MP3|R51A2_HUMAN	RAD51AP2	RAD51-associated protein 2 	4e-20			
+g10070.t2	sp|Q09MP3|R51A2_HUMAN	RAD51AP2	RAD51-associated protein 2 	4.2e-20	1.4e-20		
+g10212.t1	sp|O60290|ZN862_HUMAN	ZNF862	Zinc finger protein 862 	1.1e-24			
+g10312.t1	sp|Q96DM1|PGBD4_HUMAN	PGBD4	PiggyBac transposable element-derived protein 4 	3.4e-23	8.7e-23		
+g10336.t1	sp|O75023|LIRB5_HUMAN	LILRB5	Leukocyte immunoglobulin-like receptor subfamily B member 5 	3.6e-07			
+g10842.t1	tr|A0A0A0MS06|A0A0A0MS06_HUMAN	TRBV23-1	T cell receptor beta variable 23-1 (non-functional) 	1.8e-08	1.9e-08		
+g11610.t1	sp|Q53EQ6|TIGD5_HUMAN	TIGD5	Tigger transposable element-derived protein 5 	6e-211	1.7e-210		
+g11721.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	6e-89			
+g11831.t1	sp|A0A1B0GUT2|CJ143_HUMAN	C10ORF143	Uncharacterized protein C10orf143 	4.2e-08	9.9e-08		
+g11870.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	6.4e-20			
+g12067.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	1.6e-13			
+g12125.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	7.2e-08			
+g1220.t1	sp|Q8N4H5|TOM5_HUMAN	TOMM5	Mitochondrial import receptor subunit TOM5 homolog 	4.4e-22	2.8e-22		
+g12319.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	8.8e-12			
+g12630.t1	sp|P43489|TNR4_HUMAN	TNFRSF4	Tumor necrosis factor receptor superfamily member 4 	1.8e-20	6.7e-20		
+g12666.t1	sp|Q8N1D5|CA158_HUMAN	C1ORF158	Uncharacterized protein C1orf158 	4.4e-45	4.8e-44		
+g13243.t1	sp|Q8IWE5|PKHM2_HUMAN	PLEKHM2	Pleckstrin homology domain-containing family M member 2 	0	0		
+g13243.t2	sp|Q8IWE5|PKHM2_HUMAN	PLEKHM2	Pleckstrin homology domain-containing family M member 2 	0			
+g13243.t3	sp|Q8IWE5|PKHM2_HUMAN	PLEKHM2	Pleckstrin homology domain-containing family M member 2 	0			
+g13249.t1	sp|Q92681|RSCA1_HUMAN	RSC1A1	Regulatory solute carrier protein family 1 member 1 	4.4e-11			
+g1351.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	1.3e-60			
+g1351.t2	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	1.8e-70			
+g14045.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	4.4e-95	3.3e-95		
+g14177.t1	tr|A0A1B0GTB2|A0A1B0GTB2_HUMAN	TUNAR	HCG2038094, isoform CRA_a 	4.7e-14			
+g14582.t1	sp|Q96EM0|T3HPD_HUMAN	L3HYPDH	Trans-3-hydroxy-L-proline dehydratase 	1.3e-169	2e-169		
+g15024.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	4e-13			
+g15054.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	1.7e-14			
+g15365.t1	sp|O60930|RNH1_HUMAN	RNASEH1	Ribonuclease H1 	6.7e-06			
+g15887.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	1.2e-19			
+g15887.t2	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	1.2e-19			
+g15941.t1	sp|O14836|TR13B_HUMAN	TNFRSF13B	Tumor necrosis factor receptor superfamily member 13B 	2.4e-13	1.3e-11		
+g16771.t1	sp|A0A1B0GVT2|SIM36_HUMAN	SMIM36	Small integral membrane protein 36 	3.7e-32	3e-32		
+g17017.t1	sp|Q6B0B8|TIGD3_HUMAN	TIGD3	Tigger transposable element-derived protein 3 	1.6e-35	1.2e-35		
+g17314.t1	tr|A0A1B0GTB2|A0A1B0GTB2_HUMAN	TUNAR	HCG2038094, isoform CRA_a 	1.6e-15	2.1e-15		
+g17411.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	1.1e-35			
+g1810.t1	sp|Q96C57|CSTOS_HUMAN	CUSTOS	Protein CUSTOS 	2.7e-33	4.2e-32		
+g1979.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	7.8e-59			
+g218.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	5.3e-87			
+g2190.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	7.8e-14			
+g2191.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	1.2e-51			
+g2565.t1	sp|Q96M34|CC030_HUMAN	C3ORF30	Uncharacterized protein C3orf30 	3.1e-17	1.2e-17		
+g3177.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	2.1e-92			
+g340.t1	sp|Q68CR7|LRC66_HUMAN	LRRC66	Leucine-rich repeat-containing protein 66 	3.6e-47	4e-46		
+g3517.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	4.3e-19			
+g3913.t1	sp|Q9HC73|CRLF2_HUMAN	CRLF2	Cytokine receptor-like factor 2 	3.4e-18			
+g3913.t2	sp|Q9HC73|CRLF2_HUMAN	CRLF2	Cytokine receptor-like factor 2 	2.3e-18	2.3e-18		
+g3951.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	3.6e-16			
+g4155.t1	sp|Q9NPF7|IL23A_HUMAN	IL23A	Interleukin-23 subunit alpha 	2.7e-06	4.2e-06		
+g4246.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	3.9e-65			
+g4247.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	9e-14			
+g472.t1	sp|A0A1B0GVY4|SIM31_HUMAN	SMIM31	Small integral membrane protein 31 	2.3e-15	2.3e-15		
+g4805.t1	sp|Q9BYR5|KRA42_HUMAN	KRTAP4-2	Keratin-associated protein 4-2 	5.8e-19			
+g4827.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	3.4e-12			
+g5310.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	2.2e-31			
+g5380.t1	sp|Q8WV48|CC107_HUMAN	CCDC107	Coiled-coil domain-containing protein 107 	6.4e-13	7e-13		
+g6204.t1	sp|Q9UKY0|PRND_HUMAN	PRND	Prion-like protein doppel 	8.2e-07	1.7e-06		
+g631.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	7.4e-11			
+g6414.t1	sp|O60290|ZN862_HUMAN	ZNF862	Zinc finger protein 862 	4.7e-25			
+g6414.t2	sp|O60290|ZN862_HUMAN	ZNF862	Zinc finger protein 862 	4.9e-25			
+g6631.t1	sp|Q9H195|MUC3B_HUMAN	MUC3B	Mucin-3B (Fragments) 	2e-47	4.9e-47		
+g6758.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	9.4e-173	9.1e-173		
+g7036.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	4.2e-79			
+g7162.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	3e-10			
+g7163.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	1.1e-29			
+g7169.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	2.3e-27			
+g7367.t1	sp|P62304|RUXE_HUMAN	SNRPE	Small nuclear ribonucleoprotein E 	4.5e-57	3.6e-57		
+g7623.t1	sp|A8K855|EFCB7_HUMAN	EFCAB7	EF-hand calcium-binding domain-containing protein 7 	1.7e-269	6.1e-270		
+g7634.t1	sp|Q8N0U7|CA087_HUMAN	C1ORF87	Uncharacterized protein C1orf87 	4.3e-48	9.6e-51		
+g776.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	3.4e-30			
+g7790.t1	sp|Q9UQG0|POK11_HUMAN	ERVK-11	Endogenous retrovirus group K member 11 Pol protein 	1.4e-07			
+g8029.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	1.8e-21			
+g811.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	5.6e-70			
+g836.t2	sp|P80162|CXCL6_HUMAN	CXCL6	C-X-C motif chemokine 6 	6.3e-06			
+g8607.t1	sp|A0A1B0GTR4|SPRR5_HUMAN	SPRR5	Putative small proline-rich protein 5 	7.6e-11			
+g8607.t2	sp|A0A1B0GTR4|SPRR5_HUMAN	SPRR5	Putative small proline-rich protein 5 	7.1e-11			
+g8659.t1	sp|P49458|SRP09_HUMAN	SRP9	Signal recognition particle 9 kDa protein 	5.3e-47	3.3e-47		
+g9031.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	1.8e-06			
+g9216.t1	sp|O60290|ZN862_HUMAN	ZNF862	Zinc finger protein 862 	4.8e-25			
+g9216.t2	sp|O60290|ZN862_HUMAN	ZNF862	Zinc finger protein 862 	4.9e-25			
+g9340.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	2.5e-07			
+g969.t1	sp|O14511|NRG2_HUMAN	NRG2	Pro-neuregulin-2, membrane-bound isoform 	2.7e-19			
