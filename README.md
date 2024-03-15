@@ -1,4 +1,5 @@
 ## Part 1: Identifying novel genes in the Breaker gene model  
+
 Overall, the resulting list of novel genes identified is similar to the attempt with v10.0
 At best, there are 50 (12 from newproteins + 38 from newProteinsNewTranscript_ListofProteins) new genes - but the final novel list is likely shorter.
 This is because there are some genes that have populated pages on Xenbase already (eg. RNASEH1).
@@ -36,6 +37,7 @@ BiSeqLe result from using Braker AA as query, and Xenopus tropicalis v10.7 as re
 BiSeqLe result from using Xenopus tropicalis v.10.7 as query, and human genome as reference.  
 
 ## Part 2: Assessing accuracy of gene models for selenocysteine-containing proteins  
+
 Selenocysteine-containing proteins have context-dependent translation which reads UGA as a
 selenocysteine instead of a stop. Therefore, there may need to be manual adjustments to make sure a
 gene model translates that correctly.  
