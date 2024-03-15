@@ -1,0 +1,310 @@
+02/20/2024, 13:23:30
+g10008.t1	sp|Q99616|CCL13_HUMAN	CCL13	C-C motif chemokine 13 	1.2e-10		
+g10028.t1	sp|O60930|RNH1_HUMAN	RNASEH1	Ribonuclease H1 	5.8e-68		
+g10029.t1	sp|O60930|RNH1_HUMAN	RNASEH1	Ribonuclease H1 	1.3e-69	6.3e-71	
+g10070.t1	sp|Q09MP3|R51A2_HUMAN	RAD51AP2	RAD51-associated protein 2 	4e-20		
+g10070.t2	sp|Q09MP3|R51A2_HUMAN	RAD51AP2	RAD51-associated protein 2 	4.2e-20	1.4e-20	
+g10108.t1	sp|Q9H8M9|EVA1A_HUMAN	EVA1A	Protein eva-1 homolog A 	1.3e-61	6.6e-62	
+g10212.t1	sp|O60290|ZN862_HUMAN	ZNF862	Zinc finger protein 862 	1.1e-24		
+g10240.t1	sp|Q8TF20|ZN721_HUMAN	ZNF721	Zinc finger protein 721 	0		
+g10242.t1	sp|O15535|ZSC9_HUMAN	ZSCAN9	Zinc finger and SCAN domain-containing protein 9 	1e-43		
+g10243.t1	sp|Q49A33|Z876P_HUMAN	ZNF876P	Putative zinc finger protein 876 	2.3e-65		
+g10244.t1	sp|Q9Y2P7|ZN256_HUMAN	ZNF256	Zinc finger protein 256 	0		
+g10246.t1	sp|Q6AZW8|ZN660_HUMAN	ZNF660	Zinc finger protein 660 	5.3e-161		
+g10249.t1	sp|P35789|ZNF93_HUMAN	ZNF93	Zinc finger protein 93 	3.9e-257		
+g10250.t1	sp|Q76KX8|ZN534_HUMAN	ZNF534	Zinc finger protein 534 	4.1e-247		
+g10257.t1	sp|Q2VY69|ZN284_HUMAN	ZNF284	Zinc finger protein 284 	2.3e-171		
+g10262.t1	sp|Q14588|ZN234_HUMAN	ZNF234	Zinc finger protein 234 	0		
+g10270.t1	sp|Q0VGE8|ZN816_HUMAN	ZNF816	Zinc finger protein 816 	2.9e-222		
+g10271.t1	sp|Q9BS31|ZN649_HUMAN	ZNF649	Zinc finger protein 649 	4.9e-165		
+g10272.t1	sp|Q9Y6R6|Z780B_HUMAN	ZNF780B	Zinc finger protein 780B 	0		
+g10273.t1	sp|Q8WV37|ZN480_HUMAN	ZNF480	Zinc finger protein 480 	0		
+g10290.t1	sp|Q6ZN11|ZN793_HUMAN	ZNF793	Zinc finger protein 793 	1.4e-95		
+g10308.t1	sp|Q14588|ZN234_HUMAN	ZNF234	Zinc finger protein 234 	1.4e-70		
+g10312.t1	sp|Q96DM1|PGBD4_HUMAN	PGBD4	PiggyBac transposable element-derived protein 4 	3.4e-23	8.7e-23	
+g10314.t1	sp|Q147U1|ZN846_HUMAN	ZNF846	Zinc finger protein 846 	1.9e-212		
+g10321.t1	sp|Q8TAF7|ZN461_HUMAN	ZNF461	Zinc finger protein 461 	0		
+g10336.t1	sp|O75023|LIRB5_HUMAN	LILRB5	Leukocyte immunoglobulin-like receptor subfamily B member 5 	3.6e-07		
+g10374.t1	sp|P08590|MYL3_HUMAN	MYL3	Myosin light chain 3 	9.6e-47		
+g1050.t1	sp|P01700|LV147_HUMAN	IGLV1-47	Immunoglobulin lambda variable 1-47 	1.7e-07		
+g1053.t1	sp|P01700|LV147_HUMAN	IGLV1-47	Immunoglobulin lambda variable 1-47 	5.6e-09		
+g1056.t1	tr|A0A075B7D4|A0A075B7D4_HUMAN	IGKV1OR2-108	Immunoglobulin kappa variable 1/OR2-108 (non-functional) 	1.1e-08		
+g10571.t1	sp|P27169|PON1_HUMAN	PON1	Serum paraoxonase/arylesterase 1 	4.5e-24		
+g1060.t2	sp|P54855|UDB15_HUMAN	UGT2B15	UDP-glucuronosyltransferase 2B15 	4.7e-95		
+g10735.t1	sp|A8TX70|CO6A5_HUMAN	COL6A5	Collagen alpha-5(VI) chain 	1e-33		
+g10842.t1	tr|A0A0A0MS06|A0A0A0MS06_HUMAN	TRBV23-1	T cell receptor beta variable 23-1 (non-functional) 	1.8e-08	1.9e-08	
+g1092.t1	sp|Q8NCU7|C2C4A_HUMAN	C2CD4A	C2 calcium-dependent domain-containing protein 4A 	1.5e-07		
+g10979.t1	sp|P50452|SPB8_HUMAN	SERPINB8	Serpin B8 	3.9e-94		
+g11235.t1	sp|Q86SJ6|DSG4_HUMAN	DSG4	Desmoglein-4 	3.9e-216	9.8e-210	
+g1146.t1	sp|Q15424|SAFB1_HUMAN	SAFB	Scaffold attachment factor B1 	1.2e-25		
+g11591.t1	sp|Q14210|LY6D_HUMAN	LY6D	Lymphocyte antigen 6D 	3.6e-11		
+g11610.t1	sp|Q53EQ6|TIGD5_HUMAN	TIGD5	Tigger transposable element-derived protein 5 	6e-211	1.7e-210	
+g11661.t1	sp|P35523|CLCN1_HUMAN	CLCN1	Chloride channel protein 1 	2.6e-148		
+g11721.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	6e-89		
+g11831.t1	sp|A0A1B0GUT2|CJ143_HUMAN	C10ORF143	Uncharacterized protein C10orf143 	4.2e-08	9.9e-08	
+g11870.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	6.4e-20		
+g11915.t5	sp|Q9UKB1|FBW1B_HUMAN	FBXW11	F-box/WD repeat-containing protein 11 	0		
+g11976.t2	sp|A0AVI2|FR1L5_HUMAN	FER1L5	Fer-1-like protein 5 	0		
+g12067.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	1.6e-13		
+g12125.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	7.2e-08		
+g1220.t1	sp|Q8N4H5|TOM5_HUMAN	TOMM5	Mitochondrial import receptor subunit TOM5 homolog 	4.4e-22	2.8e-22	
+g12227.t1	sp|P20061|TCO1_HUMAN	TCN1	Transcobalamin-1 	2.3e-56	2.4e-56	
+g12270.t2	sp|Q96MN9|ZN488_HUMAN	ZNF488	Zinc finger protein 488 	1.4e-32		
+g12280.t1	sp|Q68DX3|FRPD2_HUMAN	FRMPD2	FERM and PDZ domain-containing protein 2 	1.3e-16		
+g12319.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	8.8e-12		
+g12391.t1	sp|Q92686|NEUG_HUMAN	NRGN	Neurogranin 	4.7e-20	3.7e-20	
+g12610.t3	sp|P54792|DVLP1_HUMAN	DVL1P1	Putative segment polarity protein dishevelled homolog DVL1P1 	0		
+g12610.t4	sp|P54792|DVLP1_HUMAN	DVL1P1	Putative segment polarity protein dishevelled homolog DVL1P1 	0	0	
+g12630.t1	sp|P43489|TNR4_HUMAN	TNFRSF4	Tumor necrosis factor receptor superfamily member 4 	1.8e-20	6.7e-20	
+g12632.t1	sp|Q6AW86|Z324B_HUMAN	ZNF324B	Zinc finger protein 324B 	6.7e-149		
+g12632.t2	sp|O75467|Z324A_HUMAN	ZNF324	Zinc finger protein 324A 	9.4e-143		
+g12634.t2	sp|Q96LW9|ZSC31_HUMAN	ZSCAN31	Zinc finger and SCAN domain-containing protein 31 	2.9e-102		
+g12634.t3	sp|O43296|ZN264_HUMAN	ZNF264	Zinc finger protein 264 	2.2e-217		
+g12666.t1	sp|Q8N1D5|CA158_HUMAN	C1ORF158	Uncharacterized protein C1orf158 	4.4e-45	4.8e-44	
+g12887.t1	sp|P09683|SECR_HUMAN	SCT	Secretin 	1.2e-08	1.4e-08	
+g12919.t2	sp|P04217|A1BG_HUMAN	A1BG	Alpha-1B-glycoprotein 	1.2e-16		
+g12963.t2	sp|Q8TDC3|BRSK1_HUMAN	BRSK1	Serine/threonine-protein kinase BRSK1 	0	0	
+g13024.t1	sp|P32456|GBP2_HUMAN	GBP2	Guanylate-binding protein 2 	7.2e-25		
+g13039.t1	sp|Q6ZMW2|ZN782_HUMAN	ZNF782	Zinc finger protein 782 	6.6e-92		
+g13046.t1	sp|O60814|H2B1K_HUMAN	HIST1H2BK	Histone H2B type 1-K 	1.5e-37		
+g13069.t1	sp|O15389|SIGL5_HUMAN	SIGLEC5	Sialic acid-binding Ig-like lectin 5 	2.4e-17		
+g13069.t2	sp|O15389|SIGL5_HUMAN	SIGLEC5	Sialic acid-binding Ig-like lectin 5 	9.1e-24		
+g13076.t1	sp|Q96RL6|SIG11_HUMAN	SIGLEC11	Sialic acid-binding Ig-like lectin 11 	3.8e-54		
+g13161.t1	sp|P58549|FXYD7_HUMAN	FXYD7	FXYD domain-containing ion transport regulator 7 	9.2e-13	5.8e-13	
+g13191.t1	sp|B7U540|KCJ18_HUMAN	KCNJ18	Inward rectifier potassium channel 18 	1.5e-21		
+g13219.t1	sp|P14555|PA2GA_HUMAN	PLA2G2A	Phospholipase A2, membrane associated 	3.8e-35	4.3e-35	
+g13243.t1	sp|Q8IWE5|PKHM2_HUMAN	PLEKHM2	Pleckstrin homology domain-containing family M member 2 	0	0	
+g13243.t2	sp|Q8IWE5|PKHM2_HUMAN	PLEKHM2	Pleckstrin homology domain-containing family M member 2 	0		
+g13243.t3	sp|Q8IWE5|PKHM2_HUMAN	PLEKHM2	Pleckstrin homology domain-containing family M member 2 	0		
+g13249.t1	sp|Q92681|RSCA1_HUMAN	RSC1A1	Regulatory solute carrier protein family 1 member 1 	4.4e-11		
+g13408.t4	sp|P02549|SPTA1_HUMAN	SPTA1	Spectrin alpha chain, erythrocytic 1 	0		
+g1351.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	1.3e-60		
+g1351.t2	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	1.8e-70		
+g13928.t1	sp|Q9NUK0|MBNL3_HUMAN	MBNL3	Muscleblind-like protein 3 	7.2e-182	5.4e-179	
+g13928.t2	sp|Q9NUK0|MBNL3_HUMAN	MBNL3	Muscleblind-like protein 3 	5.8e-170		
+g13971.t3	sp|O95834|EMAL2_HUMAN	EML2	Echinoderm microtubule-associated protein-like 2 	4.7e-303		
+g14006.t1	sp|Q7Z3I7|ZN572_HUMAN	ZNF572	Zinc finger protein 572 	3e-204		
+g14045.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	4.4e-95	3.3e-95	
+g14124.t1	sp|Q9H2S5|RNF39_HUMAN	RNF39	RING finger protein 39 	3.1e-14		
+g14124.t2	sp|Q9H2S5|RNF39_HUMAN	RNF39	RING finger protein 39 	4.6e-14		
+g14147.t1	sp|Q8NA92|THAP8_HUMAN	THAP8	THAP domain-containing protein 8 	6.6e-06		
+g14176.t1	sp|Q14767|LTBP2_HUMAN	LTBP2	Latent-transforming growth factor beta-binding protein 2 	3.8e-09		
+g14176.t2	sp|Q14767|LTBP2_HUMAN	LTBP2	Latent-transforming growth factor beta-binding protein 2 	3e-09		
+g14177.t1	tr|A0A1B0GTB2|A0A1B0GTB2_HUMAN	TUNAR	HCG2038094, isoform CRA_a 	4.7e-14		
+g14338.t1	sp|A6NKG5|RTL1_HUMAN	RTL1	Retrotransposon-like protein 1 	6.8e-20	3.9e-19	
+g14354.t1	sp|P16422|EPCAM_HUMAN	EPCAM	Epithelial cell adhesion molecule 	2.8e-36		
+g14523.t1	sp|Q9H0B6|KLC2_HUMAN	KLC2	Kinesin light chain 2 	8.4e-10		
+g14582.t1	sp|Q96EM0|T3HPD_HUMAN	L3HYPDH	Trans-3-hydroxy-L-proline dehydratase 	1.3e-169	2e-169	
+g14620.t1	sp|Q86TX2|ACOT1_HUMAN	ACOT1	Acyl-coenzyme A thioesterase 1 	1.5e-131		
+g14772.t1	sp|A0A1B0GUW6|SPEM3_HUMAN	SPEM3	Uncharacterized protein SPEM3 	8.5e-14		
+g14824.t1	sp|Q6ECI4|ZN470_HUMAN	ZNF470	Zinc finger protein 470 	0		
+g14855.t1	sp|O75290|Z780A_HUMAN	ZNF780A	Zinc finger protein 780A 	1.4e-251		
+g14861.t1	sp|Q8N3J9|ZN664_HUMAN	ZNF664	Zinc finger protein 664 	2.3e-95		
+g14861.t2	sp|Q9UK13|ZN221_HUMAN	ZNF221	Zinc finger protein 221 	7.2e-204		
+g1492.t2	sp|Q04726|TLE3_HUMAN	TLE3	Transducin-like enhancer protein 3 	0		
+g1492.t4	sp|Q04725|TLE2_HUMAN	TLE2	Transducin-like enhancer protein 2 	0		
+g14930.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	3.2e-38		
+g14930.t2	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	3.3e-75		
+g1496.t1	sp|Q9Y3D5|RT18C_HUMAN	MRPS18C	28S ribosomal protein S18c, mitochondrial 	4.5e-48		
+g1496.t2	sp|Q9Y3D5|RT18C_HUMAN	MRPS18C	28S ribosomal protein S18c, mitochondrial 	4.2e-48	3.6e-48	
+g15024.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	4e-13		
+g15054.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	1.7e-14		
+g15071.t1	sp|Q86W24|NAL14_HUMAN	NLRP14	NACHT, LRR and PYD domains-containing protein 14 	6.1e-82		
+g15072.t1	sp|Q86W24|NAL14_HUMAN	NLRP14	NACHT, LRR and PYD domains-containing protein 14 	3.9e-13		
+g15076.t1	sp|P13489|RINI_HUMAN	RNH1	Ribonuclease inhibitor 	1.5e-35		
+g15143.t1	sp|Q6UY18|LIGO4_HUMAN	LINGO4	Leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 4 	2.7e-38		
+g15215.t1	sp|Q96JC4|ZN479_HUMAN	ZNF479	Zinc finger protein 479 	2.6e-185		
+g15217.t1	sp|O75346|ZN253_HUMAN	ZNF253	Zinc finger protein 253 	9.7e-189		
+g15219.t1	sp|Q9H707|ZN552_HUMAN	ZNF552	Zinc finger protein 552 	4.2e-111		
+g15221.t1	sp|A6NFI3|ZN316_HUMAN	ZNF316	Zinc finger protein 316 	1.1e-279		
+g15222.t1	sp|Q6ZN19|ZN841_HUMAN	ZNF841	Zinc finger protein 841 	0		
+g15224.t1	sp|P17038|ZNF43_HUMAN	ZNF43	Zinc finger protein 43 	0		
+g15225.t2	sp|Q7Z3I7|ZN572_HUMAN	ZNF572	Zinc finger protein 572 	3e-53		
+g15228.t2	sp|Q9H7R5|ZN665_HUMAN	ZNF665	Zinc finger protein 665 	0		
+g15238.t1	sp|Q8IYX0|ZN679_HUMAN	ZNF679	Zinc finger protein 679 	6.9e-128		
+g15272.t1	sp|Q96H40|ZN486_HUMAN	ZNF486	Zinc finger protein 486 	2.9e-199		
+g15273.t1	sp|Q6ZN11|ZN793_HUMAN	ZNF793	Zinc finger protein 793 	2.4e-152		
+g15274.t1	sp|Q8TF32|ZN431_HUMAN	ZNF431	Zinc finger protein 431 	1.6e-220		
+g15309.t1	sp|Q8TC21|ZN596_HUMAN	ZNF596	Zinc finger protein 596 	8.3e-09		
+g15310.t1	sp|Q86XN6|ZN761_HUMAN	ZNF761	Zinc finger protein 761 	6.6e-303		
+g15313.t1	sp|Q96BR6|ZN669_HUMAN	ZNF669	Zinc finger protein 669 	8.5e-97		
+g15325.t1	tr|Q5TEC6|Q5TEC6_HUMAN	HIST2H3PS2	Histone H3 	3.2e-36		
+g1536.t1	sp|P33552|CKS2_HUMAN	CKS2	Cyclin-dependent kinases regulatory subunit 2 	1.7e-47	2.6e-47	
+g15365.t1	sp|O60930|RNH1_HUMAN	RNASEH1	Ribonuclease H1 	6.7e-06		
+g15384.t1	sp|Q8NF86|PRS33_HUMAN	PRSS33	Serine protease 33 	3.2e-69		
+g15393.t1	sp|Q8NF86|PRS33_HUMAN	PRSS33	Serine protease 33 	8.9e-82	1.7e-80	
+g15399.t1	sp|Q96PP8|GBP5_HUMAN	GBP5	Guanylate-binding protein 5 	2.9e-06		
+g15449.t1	sp|H0YKK7|GG6LS_HUMAN	GOLGA6L19	Putative golgin subfamily A member 6-like protein 19 	4.2e-07		
+g15483.t1	sp|P20702|ITAX_HUMAN	ITGAX	Integrin alpha-X 	7.7e-26		
+g15622.t1	sp|Q8NA92|THAP8_HUMAN	THAP8	THAP domain-containing protein 8 	4.3e-06		
+g15667.t2	sp|Q8IYS4|CP071_HUMAN	C16ORF71	Uncharacterized protein C16orf71 	4.3e-10	7.1e-11	
+g15887.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	1.2e-19		
+g15887.t2	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	1.2e-19		
+g15941.t1	sp|O14836|TR13B_HUMAN	TNFRSF13B	Tumor necrosis factor receptor superfamily member 13B 	2.4e-13	1.3e-11	
+g1600.t1	sp|P01860|IGHG3_HUMAN	IGHG3	Immunoglobulin heavy constant gamma 3 	7.1e-44		
+g16121.t2	sp|A8TX70|CO6A5_HUMAN	COL6A5	Collagen alpha-5(VI) chain 	0		
+g16124.t2	sp|Q32MZ4|LRRF1_HUMAN	LRRFIP1	Leucine-rich repeat flightless-interacting protein 1 	2.9e-63		
+g16201.t1	sp|Q49AG3|ZBED5_HUMAN	ZBED5	Zinc finger BED domain-containing protein 5 	4.4e-16		
+g16250.t1	sp|Q15858|SCN9A_HUMAN	SCN9A	Sodium channel protein type 9 subunit alpha 	0		
+g16254.t3	sp|P35498|SCN1A_HUMAN	SCN1A	Sodium channel protein type 1 subunit alpha 	1.2e-63		
+g1635.t1	sp|A6NI73|LIRA5_HUMAN	LILRA5	Leukocyte immunoglobulin-like receptor subfamily A member 5 	8.9e-10		
+g1635.t2	sp|A6NI73|LIRA5_HUMAN	LILRA5	Leukocyte immunoglobulin-like receptor subfamily A member 5 	7e-10		
+g16432.t1	sp|Q9P1A2|PP4RL_HUMAN	PPP4R1L	Putative serine/threonine-protein phosphatase 4 regulatory subunit 1-like 	2.5e-09		
+g16727.t1	sp|O43930|PRKY_HUMAN	PRKY	Putative serine/threonine-protein kinase PRKY 	1.1e-10		
+g16734.t1	sp|E9PB15|PTG3L_HUMAN	PTGES3L	Putative protein PTGES3L 	3.7e-38	1.4e-37	
+g16771.t1	sp|A0A1B0GVT2|SIM36_HUMAN	SMIM36	Small integral membrane protein 36 	3.7e-32	3e-32	
+g16869.t1	sp|O94911|ABCA8_HUMAN	ABCA8	ATP-binding cassette sub-family A member 8 	1.1e-193		
+g16889.t1	sp|O94911|ABCA8_HUMAN	ABCA8	ATP-binding cassette sub-family A member 8 	7.5e-117		
+g17017.t1	sp|Q6B0B8|TIGD3_HUMAN	TIGD3	Tigger transposable element-derived protein 3 	1.6e-35	1.2e-35	
+g17146.t1	sp|B2RD01|CENP1_HUMAN	CENPBD1	CENPB DNA-binding domain-containing protein 1 	1.1e-06		
+g17255.t1	sp|P61925|IPKA_HUMAN	PKIA	cAMP-dependent protein kinase inhibitor alpha 	4.7e-28	8e-28	
+g17314.t1	tr|A0A1B0GTB2|A0A1B0GTB2_HUMAN	TUNAR	HCG2038094, isoform CRA_a 	1.6e-15	2.1e-15	
+g17349.t1	sp|Q5T9A4|ATD3B_HUMAN	ATAD3B	ATPase family AAA domain-containing protein 3B 	1e-37		
+g17356.t1	sp|A0A075B6S4|KVD17_HUMAN	IGKV1D-17	Immunoglobulin kappa variable 1D-17 	1.1e-07		
+g17356.t2	sp|A0A075B6S4|KVD17_HUMAN	IGKV1D-17	Immunoglobulin kappa variable 1D-17 	1.9e-07		
+g17358.t1	sp|A0A0B4J268|TVA4_HUMAN	TRAV4	T cell receptor alpha variable 4 	3.9e-18	2.2e-18	
+g17371.t1	sp|P0DP02|HVC33_HUMAN	IGHV3-30-3	Immunoglobulin heavy variable 3-30-3 	9.7e-11		
+g17383.t1	sp|A0A0C4DH32|HV320_HUMAN	IGHV3-20	Immunoglobulin heavy variable 3-20 	8.3e-42		
+g17386.t1	sp|P01763|HV348_HUMAN	IGHV3-48	Immunoglobulin heavy variable 3-48 	4.9e-50		
+g17402.t1	sp|P01763|HV348_HUMAN	IGHV3-48	Immunoglobulin heavy variable 3-48 	9.3e-36		
+g17411.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	1.1e-35		
+g17442.t1	sp|P34931|HS71L_HUMAN	HSPA1L	Heat shock 70 kDa protein 1-like 	4.6e-29		
+g17564.t1	sp|Q5T2L2|AKCL1_HUMAN	AKR1C8P	Putative aldo-keto reductase family 1 member C8 	1.1e-20		
+g1810.t1	sp|Q96C57|CSTOS_HUMAN	CUSTOS	Protein CUSTOS 	2.7e-33	4.2e-32	
+g1861.t1	sp|P01721|LV657_HUMAN	IGLV6-57	Immunoglobulin lambda variable 6-57 	1.6e-09		
+g1865.t1	tr|A0A075B6I7|A0A075B6I7_HUMAN	IGLV5-48	Immunoglobulin lambda variable 5-48 (non-functional) 	3.5e-33		
+g1882.t1	sp|A4QPH2|PI4P2_HUMAN	PI4KAP2	Putative phosphatidylinositol 4-kinase alpha-like protein P2 	0		
+g1882.t2	sp|A4QPH2|PI4P2_HUMAN	PI4KAP2	Putative phosphatidylinositol 4-kinase alpha-like protein P2 	0		
+g1979.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	7.8e-59		
+g2030.t1	sp|Q8TBB0|THAP6_HUMAN	THAP6	THAP domain-containing protein 6 	6.6e-07		
+g211.t4	sp|Q96N16|JKIP1_HUMAN	JAKMIP1	Janus kinase and microtubule-interacting protein 1 	5.6e-284	9.6e-285	
+g218.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	5.3e-87		
+g2190.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	7.8e-14		
+g2191.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	1.2e-51		
+g24.t1	sp|P01624|KV315_HUMAN	IGKV3-15	Immunoglobulin kappa variable 3-15 	2.8e-39		
+g2565.t1	sp|Q96M34|CC030_HUMAN	C3ORF30	Uncharacterized protein C3orf30 	3.1e-17	1.2e-17	
+g2864.t1	sp|P51690|ARSE_HUMAN	ARSE	Arylsulfatase E 	8.1e-73		
+g2864.t2	sp|P51690|ARSE_HUMAN	ARSE	Arylsulfatase E 	2.4e-72		
+g2893.t1	sp|A8CG34|P121C_HUMAN	POM121C	Nuclear envelope pore membrane protein POM 121C 	6e-13	2.8e-09	
+g296.t1	sp|Q8N614|TM156_HUMAN	TMEM156	Transmembrane protein 156 	5.2e-12	2.9e-12	
+g3049.t2	sp|Q9H0M5|ZN700_HUMAN	ZNF700	Zinc finger protein 700 	7.6e-258		
+g3150.t1	sp|P04003|C4BPA_HUMAN	C4BPA	C4b-binding protein alpha chain 	8.1e-49		
+g3151.t1	sp|P04003|C4BPA_HUMAN	C4BPA	C4b-binding protein alpha chain 	1.7e-83		
+g3152.t2	sp|P15529|MCP_HUMAN	CD46	Membrane cofactor protein 	7.2e-86		
+g3177.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	2.1e-92		
+g3248.t1	sp|A8MTJ3|GNAT3_HUMAN	GNAT3	Guanine nucleotide-binding protein G(t) subunit alpha-3 	3.8e-86		
+g3278.t1	sp|Q68G75|LEMD1_HUMAN	LEMD1	LEM domain-containing protein 1 	3.8e-10		
+g3278.t2	sp|Q68G75|LEMD1_HUMAN	LEMD1	LEM domain-containing protein 1 	3.3e-10	7.2e-10	
+g3281.t1	sp|Q68G75|LEMD1_HUMAN	LEMD1	LEM domain-containing protein 1 	3.8e-10		
+g3281.t2	sp|Q68G75|LEMD1_HUMAN	LEMD1	LEM domain-containing protein 1 	3.3e-10	7.2e-10	
+g3298.t1	sp|P0DJJ0|SRG2C_HUMAN	SRGAP2C	SLIT-ROBO Rho GTPase-activating protein 2C 	1.4e-44		
+g3384.t1	sp|Q96A09|TET5B_HUMAN	TENT5B	Terminal nucleotidyltransferase 5B 	1.1e-12		
+g340.t1	sp|Q68CR7|LRC66_HUMAN	LRRC66	Leucine-rich repeat-containing protein 66 	3.6e-47	4e-46	
+g3471.t1	sp|Q9UL18|AGO1_HUMAN	AGO1	Protein argonaute-1 	0	0	
+g3517.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	4.3e-19		
+g3701.t1	sp|P10147|CCL3_HUMAN	CCL3	C-C motif chemokine 3 	1.3e-21		
+g3911.t1	sp|Q7L775|EPMIP_HUMAN	EPM2AIP1	EPM2A-interacting protein 1 	1.2e-14		
+g3913.t1	sp|Q9HC73|CRLF2_HUMAN	CRLF2	Cytokine receptor-like factor 2 	3.4e-18		
+g3913.t2	sp|Q9HC73|CRLF2_HUMAN	CRLF2	Cytokine receptor-like factor 2 	2.3e-18	2.3e-18	
+g3947.t1	sp|B1AL88|F155A_HUMAN	FAM155A	Transmembrane protein FAM155A 	1.6e-160	4.3e-162	
+g3951.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	3.6e-16		
+g4061.t1	sp|Q8TCP9|F200A_HUMAN	FAM200A	Protein FAM200A 	6.3e-06		
+g4084.t1	sp|P37023|ACVL1_HUMAN	ACVRL1	Serine/threonine-protein kinase receptor R3 	4.2e-194	4.6e-194	
+g4117.t1	sp|Q12815|TROAP_HUMAN	TROAP	Tastin 	7.5e-13	1.6e-09	
+g4117.t2	sp|Q12815|TROAP_HUMAN	TROAP	Tastin 	7.5e-13		
+g4117.t3	sp|Q12815|TROAP_HUMAN	TROAP	Tastin 	1.7e-12	1.6e-09	
+g4155.t1	sp|Q9NPF7|IL23A_HUMAN	IL23A	Interleukin-23 subunit alpha 	2.7e-06	4.2e-06	
+g4166.t1	sp|Q9H009|NACA2_HUMAN	NACA2	Nascent polypeptide-associated complex subunit alpha-2 	1.3e-110	5.5e-111	
+g4192.t1	sp|P08151|GLI1_HUMAN	GLI1	Zinc finger protein GLI1 	6.2e-212	7.1e-212	
+g42.t1	sp|P01624|KV315_HUMAN	IGKV3-15	Immunoglobulin kappa variable 3-15 	1.8e-39		
+g4246.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	3.9e-65		
+g4247.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	9e-14		
+g4331.t1	sp|Q49AG3|ZBED5_HUMAN	ZBED5	Zinc finger BED domain-containing protein 5 	2.5e-51		
+g4437.t1	sp|B1ANS9|WDR64_HUMAN	WDR64	WD repeat-containing protein 64 	1e-08		
+g4549.t1	sp|P09238|MMP10_HUMAN	MMP10	Stromelysin-2 	8.8e-09		
+g462.t2	sp|Q5H9U9|DDX6L_HUMAN	DDX60L	Probable ATP-dependent RNA helicase DDX60-like 	0		
+g4682.t3	sp|O75373|ZN737_HUMAN	ZNF737	Zinc finger protein 737 	3.8e-196		
+g4701.t1	sp|O43830|ZNF73_HUMAN	ZNF73	Zinc finger protein 73 	6.8e-148		
+g4702.t2	sp|E7ETH6|Z587B_HUMAN	ZNF587B	Zinc finger protein 587B 	3.8e-45		
+g4704.t1	tr|A0A075B6Y2|A0A075B6Y2_HUMAN	TRAJ35	T cell receptor alpha joining 35 (non-functional) 	1.5e-14		
+g4712.t1	sp|Q8NGJ2|O52H1_HUMAN	OR52H1	Olfactory receptor 52H1 	2.6e-30		
+g4713.t1	sp|Q8NGI3|O56B1_HUMAN	OR56B1	Olfactory receptor 56B1 	5.6e-53		
+g472.t1	sp|A0A1B0GVY4|SIM31_HUMAN	SMIM31	Small integral membrane protein 31 	2.3e-15	2.3e-15	
+g4745.t1	sp|O75373|ZN737_HUMAN	ZNF737	Zinc finger protein 737 	3.7e-240		
+g4759.t1	sp|Q8NGH6|O52L2_HUMAN	OR52L2P	Putative olfactory receptor 52L2 	9.8e-61		
+g4805.t1	sp|Q9BYR5|KRA42_HUMAN	KRTAP4-2	Keratin-associated protein 4-2 	5.8e-19		
+g4827.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	3.4e-12		
+g493.t1	sp|P43234|CATO_HUMAN	CTSO	Cathepsin O 	3.2e-113	2e-113	
+g4991.t2	sp|Q9Y5H0|PCDG3_HUMAN	PCDHGA3	Protocadherin gamma-A3 	2.4e-10		
+g4992.t1	sp|Q9Y5I4|PCDC2_HUMAN	PCDHAC2	Protocadherin alpha-C2 	0	0	
+g5310.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	2.2e-31		
+g5380.t1	sp|Q8WV48|CC107_HUMAN	CCDC107	Coiled-coil domain-containing protein 107 	6.4e-13	7e-13	
+g570.t1	sp|P40933|IL15_HUMAN	IL15	Interleukin-15 	3.2e-10		
+g570.t2	sp|P40933|IL15_HUMAN	IL15	Interleukin-15 	2.1e-10	8.6e-11	
+g570.t3	sp|P40933|IL15_HUMAN	IL15	Interleukin-15 	3.5e-10		
+g5702.t1	sp|P16415|ZN823_HUMAN	ZNF823	Zinc finger protein 823 	6.4e-34		
+g5703.t1	sp|Q53GI3|ZN394_HUMAN	ZNF394	Zinc finger protein 394 	2.7e-37		
+g5714.t1	tr|A0A1B0GVM2|A0A1B0GVM2_HUMAN	TCAF2C	TRPM8 channel-associated factor 2C 	2.5e-23		
+g5715.t1	tr|A0A1B0GVM2|A0A1B0GVM2_HUMAN	TCAF2C	TRPM8 channel-associated factor 2C 	3.1e-16		
+g5830.t1	sp|P09668|CATH_HUMAN	CTSH	Pro-cathepsin H 	1.9e-34		
+g5830.t2	sp|P09668|CATH_HUMAN	CTSH	Pro-cathepsin H 	4.9e-37		
+g5945.t1	sp|O60423|AT8B3_HUMAN	ATP8B3	Phospholipid-transporting ATPase IK 	0		
+g5975.t1	sp|Q8IYX7|SAXO1_HUMAN	SAXO1	Stabilizer of axonemal microtubules 1 	7e-31		
+g6033.t1	sp|Q9BRJ9|MESP1_HUMAN	MESP1	Mesoderm posterior protein 1 	2.1e-25		
+g6204.t1	sp|Q9UKY0|PRND_HUMAN	PRND	Prion-like protein doppel 	8.2e-07	1.7e-06	
+g6209.t1	sp|Q6P2I3|FAH2B_HUMAN	FAHD2B	Fumarylacetoacetate hydrolase domain-containing protein 2B 	3e-60	6.5e-61	
+g631.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	7.4e-11		
+g6412.t1	sp|Q8WTT0|CLC4C_HUMAN	CLEC4C	C-type lectin domain family 4 member C 	3.1e-24		
+g6414.t1	sp|O60290|ZN862_HUMAN	ZNF862	Zinc finger protein 862 	4.7e-25		
+g6414.t2	sp|O60290|ZN862_HUMAN	ZNF862	Zinc finger protein 862 	4.9e-25		
+g6462.t1	sp|P16403|H12_HUMAN	HIST1H1C	Histone H1.2 	3.9e-32		
+g6530.t1	sp|P55273|CDN2D_HUMAN	CDKN2D	Cyclin-dependent kinase 4 inhibitor D 	1.3e-64	6.1e-65	
+g6535.t1	sp|P55273|CDN2D_HUMAN	CDKN2D	Cyclin-dependent kinase 4 inhibitor D 	1.3e-64	6.1e-65	
+g6624.t1	sp|P04350|TBB4A_HUMAN	TUBB4A	Tubulin beta-4A chain 	3.1e-18		
+g6628.t1	sp|P04350|TBB4A_HUMAN	TUBB4A	Tubulin beta-4A chain 	0		
+g6631.t1	sp|Q9H195|MUC3B_HUMAN	MUC3B	Mucin-3B (Fragments) 	2e-47	4.9e-47	
+g6662.t1	sp|O95944|NCTR2_HUMAN	NCR2	Natural cytotoxicity triggering receptor 2 	6.2e-06		
+g6691.t2	sp|Q9Y4C2|TCAF1_HUMAN	TCAF1	TRPM8 channel-associated factor 1 	1.7e-51		
+g6758.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	9.4e-173	9.1e-173	
+g6910.t1	sp|Q7RTX0|TS1R3_HUMAN	TAS1R3	Taste receptor type 1 member 3 	3.5e-22		
+g6930.t1	sp|Q9HC84|MUC5B_HUMAN	MUC5B	Mucin-5B 	1.3e-241	6e-301	
+g6968.t1	sp|Q6DT37|MRCKG_HUMAN	CDC42BPG	Serine/threonine-protein kinase MRCK gamma 	2.1e-13		
+g6977.t1	sp|Q11128|FUT5_HUMAN	FUT5	Alpha-(1,3)-fucosyltransferase 5 	1e-87		
+g7036.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	4.2e-79		
+g7047.t1	sp|Q9Y4I5|MTL5_HUMAN	TESMIN	Tesmin 	1.8e-66		
+g7162.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	3e-10		
+g7163.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	1.1e-29		
+g7169.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	2.3e-27		
+g7185.t1	sp|Q9UJ78|ZMYM5_HUMAN	ZMYM5	Zinc finger MYM-type protein 5 	4.3e-20		
+g7367.t1	sp|P62304|RUXE_HUMAN	SNRPE	Small nuclear ribonucleoprotein E 	4.5e-57	3.6e-57	
+g7400.t1	sp|Q6NT32|EST5A_HUMAN	CES5A	Carboxylesterase 5A 	6.5e-111		
+g751.t1	sp|Q9UII4|HERC5_HUMAN	HERC5	E3 ISG15--protein ligase HERC5 	5e-121	2.2e-120	
+g7623.t1	sp|A8K855|EFCB7_HUMAN	EFCAB7	EF-hand calcium-binding domain-containing protein 7 	1.7e-269	6.1e-270	
+g7634.t1	sp|Q8N0U7|CA087_HUMAN	C1ORF87	Uncharacterized protein C1orf87 	4.3e-48	9.6e-51	
+g776.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	3.4e-30		
+g7790.t1	sp|Q9UQG0|POK11_HUMAN	ERVK-11	Endogenous retrovirus group K member 11 Pol protein 	1.4e-07		
+g7852.t1	sp|Q96ND8|ZN583_HUMAN	ZNF583	Zinc finger protein 583 	2.3e-221		
+g7939.t1	sp|P23510|TNFL4_HUMAN	TNFSF4	Tumor necrosis factor ligand superfamily member 4 	2.9e-08	2.5e-08	
+g7957.t1	sp|A1L170|CA226_HUMAN	C1ORF226	Uncharacterized protein C1orf226 	3.2e-39	5e-39	
+g8029.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	1.8e-21		
+g811.t1	sp|Q96MB7|HARB1_HUMAN	HARBI1	Putative nuclease HARBI1 	5.6e-70		
+g836.t2	sp|P80162|CXCL6_HUMAN	CXCL6	C-X-C motif chemokine 6 	6.3e-06		
+g8607.t1	sp|A0A1B0GTR4|SPRR5_HUMAN	SPRR5	Putative small proline-rich protein 5 	7.6e-11		
+g8607.t2	sp|A0A1B0GTR4|SPRR5_HUMAN	SPRR5	Putative small proline-rich protein 5 	7.1e-11		
+g8659.t1	sp|P49458|SRP09_HUMAN	SRP9	Signal recognition particle 9 kDa protein 	5.3e-47	3.3e-47	
+g9031.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	1.8e-06		
+g9186.t1	sp|O95382|M3K6_HUMAN	MAP3K6	Mitogen-activated protein kinase kinase kinase 6 	0		
+g9216.t1	sp|O60290|ZN862_HUMAN	ZNF862	Zinc finger protein 862 	4.8e-25		
+g9216.t2	sp|O60290|ZN862_HUMAN	ZNF862	Zinc finger protein 862 	4.9e-25		
+g9224.t1	sp|P63172|DYLT1_HUMAN	DYNLT1	Dynein light chain Tctex-type 1 	7e-70	6.3e-70	
+g9340.t1	sp|Q9P215|POGK_HUMAN	POGK	Pogo transposable element with KRAB domain 	2.5e-07		
+g9386.t1	sp|Q5T2L2|AKCL1_HUMAN	AKR1C8P	Putative aldo-keto reductase family 1 member C8 	3.5e-24		
+g9466.t1	sp|Q96JB1|DYH8_HUMAN	DNAH8	Dynein heavy chain 8, axonemal 	9.1e-21		
+g9524.t1	sp|Q96PZ7|CSMD1_HUMAN	CSMD1	CUB and sushi domain-containing protein 1 	4.9e-48		
+g9628.t1	sp|Q86YR7|MF2L2_HUMAN	MCF2L2	Probable guanine nucleotide exchange factor MCF2L2 	3.6e-98		
+g9628.t2	sp|Q86YR7|MF2L2_HUMAN	MCF2L2	Probable guanine nucleotide exchange factor MCF2L2 	1.6e-101	5.8e-102	
+g969.t1	sp|O14511|NRG2_HUMAN	NRG2	Pro-neuregulin-2, membrane-bound isoform 	2.7e-19		
+g9726.t2	sp|B2RNN3|C1T9B_HUMAN	C1QTNF9B	Complement C1q and tumor necrosis factor-related protein 9B 	8e-58		
+g9890.t1	sp|Q4G0M1|ERFE_HUMAN	ERFE	Erythroferrone 	5.1e-37		
+g9915.t1	sp|P78423|X3CL1_HUMAN	CX3CL1	Fractalkine 	1.5e-06		
+g9970.t1	sp|Q9BWW8|APOL6_HUMAN	APOL6	Apolipoprotein L6 	4.1e-24	2.5e-24	
